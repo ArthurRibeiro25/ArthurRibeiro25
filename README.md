@@ -11,3 +11,9 @@ Hi! I'm Arthur Ribeiro
   <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+<div>
+  <a href="https://github-readme-stats.vercel.app/api?username=ArthurRibeiro25">
+</div>
+
+
