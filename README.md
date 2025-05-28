@@ -1,6 +1,6 @@
 Hi! I'm Arthur Ribeiro
 
-- 🔭 I’m currently working on +A Educação
+- 🔭 I’m currently working on SR Consulting
 - 🌱 I’m currently learning JavaScript & React
 - 📫 How to reach me: ribeiro.arthur25@gmail.com
 
