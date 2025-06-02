@@ -1,7 +1,7 @@
 Hi! I'm Arthur Ribeiro
 
 - 🔭 I’m currently working on SR Consulting
-- 🌱 I’m currently learning JavaScript & React
+- 🌱 I’m currently learning about Salesforce development, Aura and LWC.
 - 📫 How to reach me: ribeiro.arthur25@gmail.com
 
 <div>
